@@ -7,4 +7,5 @@ for i in range(x):
 target = int(input("enter the element you wanna search in the list:"))
 result =mod.target_search(target,searchlist)
 print(f"the target ele {target} is found at pos {result} ")
+
     
