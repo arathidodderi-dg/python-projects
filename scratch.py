@@ -1,0 +1,1 @@
+print("i'm exhousting my energy to learn coding and i won't give up untill ... ")
