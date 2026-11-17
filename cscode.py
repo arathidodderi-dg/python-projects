@@ -6,6 +6,9 @@ for i in range(x):
   searchlist.append(ele)
 target = int(input("enter the element you wanna search in the list:"))
 result =mod.target_search(target,searchlist)
-print(f"the target ele {target} is found at pos {result} ")
+if result =! -1:
+     print(f"the target ele {target} is found at pos {result} ")
+else:
+      print(f"the target ele {target} is not found in the list")
 
     
